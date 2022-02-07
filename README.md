@@ -6,7 +6,7 @@ Help him find his car key and kill a lot of god damn hippies.
 
 App for iOS, Android and PC.
 
-![alt text](https://github.com/joachim89/andysworld/blob/main/feat.jpg?raw=true)
+![alt text](https://github.com/joachim89/andysworld/blob/main/feat.jpg?raw=true | width=500)
 
 
 
