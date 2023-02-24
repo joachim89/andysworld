@@ -2,7 +2,7 @@
 After Andy had a traumatic knee injury, the only thing he could do was play video games, a lot of video games.
 Help him find his car key and kill a lot of god damn hippies.
 
-# Links
+**Links**
 * https://apps.apple.com/us/app/andys-world/id1606897710
 * https://play.google.com/store/apps/details?id=com.JoachimSondreGamesinc.AndysWorld
 
